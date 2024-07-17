@@ -1,0 +1,4 @@
+tensorflow
+easy-vqa
+sentence_transformers
+transformers
