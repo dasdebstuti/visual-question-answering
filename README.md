@@ -2,7 +2,7 @@
 
 ## Visual Question Answering with Easy-VQA
 
-This repository explores Visual Question Answering (VQA) using the Easy-VQA dataset, a simplified dataset designed to facilitate quick experimentation and learning. VQA combines computer vision and natural language processing to answer questions about images, making it a compelling task for developing and testing multimodal AI models. Easy-VQA offers a straightforward entry point for beginners, featuring a limited set of questions and corresponding images, enabling efficient model training and evaluation. This project includes code for data preprocessing, model training, and evaluation, along with examples to help users get started with their VQA experiments.
+This repository explores Visual Question Answering (VQA) using the Easy-VQA dataset, a simplified dataset designed to facilitate quick experimentation and learning. VQA combines computer vision and natural language processing to answer questions about images, making it a compelling task for developing and testing multimodal AI models. Easy-VQA offers a straightforward entry point for beginners, featuring a limited set of questions and corresponding images, enabling efficient model training and evaluation. This project includes code for data preprocessing, model training, and evaluation, along with examples to help users get started with their VQA experiments. Of course, the models can be further improved.
 
 ## DataSet
 The Dataset can be easily downloaded/installed as shown below:
